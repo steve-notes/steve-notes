@@ -25,10 +25,11 @@
  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=steven887&theme=dracula)  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=steven887&theme=dracula) 
  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=steven887&label=Profile%20views&color=0e75b6&style=flat" alt="steven887" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/steven887?style=social">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=steven887&label=Profile%20views&color=0e75b6&style=flat" alt="steven887" /> 
  </p>
 
 <!--
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/steven887?style=social">
 ### Hi there 👋
 
 
