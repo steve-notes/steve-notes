@@ -9,7 +9,6 @@
 ### About Me :raising_hand_man:
 - 🔭 I’m a self taught programmer & Linux enthusiast
 - 🌱 I’m currently learning everything :grin:
-- 📫 How to reach me: steven87.ags@gmail.com
 
 
 
