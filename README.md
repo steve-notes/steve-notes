@@ -38,9 +38,7 @@
 <a href="https://www.ansible.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a> 
 <a href="https://www.terraform.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a> 
 <a href="https://www.cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a> 
-
-
-
+<a href="https://www.alibabacloud.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/alibabacloud/alibabacloud-ar21.svg" alt="alibabacloud" width="40" height="40"/> </a> 
 </p>
 
 ---
